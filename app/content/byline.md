@@ -1,0 +1,1 @@
+Mikael Johansson jobbar som svetsare, samtidigt har han sin egna firma brevid där han sysslar med att bygga/serva datorer och även tillverkar hemsidor.
