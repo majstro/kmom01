@@ -36,14 +36,14 @@ h1 {
 .sitetitle {
   position: absolute;
   top: 6px;
-  left: 130px;
+  left: 320px;
   font-size: 48px;
 }
 
 .siteslogan {
   position: absolute;
   top: 65px;
-  left: 130px;
+  left: 320px;
   font-style: italic;
   color: #666;
 }
