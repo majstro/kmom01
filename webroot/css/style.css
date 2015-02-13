@@ -5,6 +5,7 @@
 @import url(figure.css);
 
 body {
+  background-color: #FF9933;
   color: #333;
   font-family: arial, sans-serif;
   overflow-y: scroll;
@@ -19,6 +20,7 @@ h1 {
  * Layout of the main page elements 
  */
 #wrapper {
+  background-color: #FFF;
   margin: 0 auto;
   width: 980px; 
   padding: 10px;
@@ -86,12 +88,18 @@ h1 {
 }
 
 .byline {
+  background: #39F;
   margin-top: 44px;
   border-top: 1px dashed #ccc;
-  padding-top: 22px;
+  padding: 20px 10px 15px 10px;
   color: #666;
+  -moz-border-radius: 0px 10px;
+  -webkit-border-radius: 0px 10px;
+  border-radius: 0px 10px;
+  
 }
 
 .byline p {
+	color: #333;
   margin-top: 0;
 }
