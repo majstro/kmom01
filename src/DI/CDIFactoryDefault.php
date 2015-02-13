@@ -51,7 +51,7 @@ class CDIFactoryDefault extends CDI
             $url->setStaticSiteUrl($this->request->getSiteUrl());
             $url->setStaticBaseUrl($this->request->getBaseUrl());
             $url->setScriptName($this->request->getScriptName());
-            $url->setUrlType($url::URL_APPEND);
+            $url->setUrlType($url::URL_CLEAN);
             return $url;
         });
 
