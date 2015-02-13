@@ -58,4 +58,5 @@ $app->router->add('source', function() use ($app) {
 });
 
 $app->router->handle();
+
 $app->theme->render();
